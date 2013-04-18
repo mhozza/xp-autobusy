@@ -1,0 +1,70 @@
++---------------+
+|popis
+|priorita
+|trvanie
++---------------+
+
+lokalizacia objektu
+5
+
+prostriedok
+1
+
+
+smer
+1
+
+
+---------------------------------------------------------------------
+
+zisti pocet 
+1
+40 min
+
+zisti velkosti kolies
+2
+25 min
+
+zisti ci obrazok obsahuje ohen
+1
+5 min
+
+zisti ci je na obrazku vrtula
+1
+5 min
+
+zisti ci obrazok obsahuje okna alebo dvere
+2
+5 min
+
+zisti ci obsahuje dvere
+3
+10 min
+
+zisti ci ma spic
+2
+10 min
+
+zisti aky typ spicu to je
+2
+10 min
+
+zisti ci ma korman
+2
+30 min
+
+zisti poziciu kormanu
+3
+5 min
+
+najdi vrch (prpipad kocika, korcule} a urci jeho poziciu vzhladom na stred
+3
+15 min
+
+smer skejbordu
+4
+5 min
+
+zisti vysku (kvoli skejbordu)
+2
+5 min

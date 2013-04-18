@@ -1,0 +1,3 @@
+REKLAMA
+
+Spoznaj dopravný prostriedok a zisti, ktorým smerom ide. Vaším vstupom sú ASCII obrázky tradičnej i netradičnej dopravy. Koľko kolies má korčuľa? Má to vrtuľu, bude to vzducholoď? Každý z nich je jedinečný!
