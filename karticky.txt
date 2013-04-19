@@ -4,20 +4,22 @@
 |trvanie
 +---------------+
 
+---------------------------------------------------------------------
 lokalizacia objektu
 5
+20 min
 
-prostriedok
+zisti prostriedok
 1
 
 
-smer
+zisti smer
 1
 
 
 ---------------------------------------------------------------------
 
-zisti pocet 
+zisti pocet kolies
 1
 40 min
 
@@ -68,3 +70,11 @@ smer skejbordu
 zisti vysku (kvoli skejbordu)
 2
 5 min
+
+zisti, ci je to kocik (kriz z noziciek)
+2
+15 min
+
+zisti, ci ma (aj) sedadlo
+2
+20 min

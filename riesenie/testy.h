@@ -1,0 +1,2 @@
+void testyDopravnychProstriedkov();
+void testySmeru();
