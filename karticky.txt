@@ -1,80 +1,76 @@
-+---------------+
-|popis
-|priorita
-|trvanie
-+---------------+
+KARTIČKY na deľbu práce
 
----------------------------------------------------------------------
-lokalizacia objektu
-5
-20 min
+popis: lokalizácia objektu
+priorita: 5
+trvanie: 20 min
 
-zisti prostriedok
-1
+popis: zisti prostriedok
+priorita: 1
+trvanie: 4.5h
 
+popis: zisti smer
+priorita: 1
+trvanie: 3h
+________________________________________
+Podúlohy:
+_______________________________________
 
-zisti smer
-1
+popis: zisti počet kolies
+priorita: 1
+trvanie: 40 min
 
+popis: zisti veľkosti kolies
+priorita: 2
+trvanie: 25 min
 
----------------------------------------------------------------------
+popis: zisti, či obrázok obsahuje oheň
+priorita: 1
+trvanie: 5 min
 
-zisti pocet kolies
-1
-40 min
+popis: zisti, či je na obrázku vrtuľa
+priorita: 1
+trvanie: 5 min
 
-zisti velkosti kolies
-2
-25 min
+popis: zisti, či obrázok obsahuje okná alebo dvere
+priorita: 2
+trvanie: 5 min
 
-zisti ci obrazok obsahuje ohen
-1
-5 min
+popis: zisti, či obsahuje dvere
+priorita: 3
+trvanie: 10 min
 
-zisti ci je na obrazku vrtula
-1
-5 min
+popis: zisti, či má špic
+priorita: 2
+trvanie: 10 min
 
-zisti ci obrazok obsahuje okna alebo dvere
-2
-5 min
+popis: zisti, aký typ špicu to je
+priorita: 2
+trvanie: 10 min
 
-zisti ci obsahuje dvere
-3
-10 min
+popis: zisti, či má korman
+priorita: 2
+trvanie: 30 min
 
-zisti ci ma spic
-2
-10 min
+popis: zisti pozíciu kormanu
+priorita: 3
+trvanie: 5 min
 
-zisti aky typ spicu to je
-2
-10 min
+popis: nájdi vrch (prípad kočíka, korčule) a urči jeho pozíciu vzhľadom na stred
+priorita: 3
+trvanie: 15 min
 
-zisti ci ma korman
-2
-30 min
+popis: smer skejbordu
+priorita: 4
+trvanie: 5 min
 
-zisti poziciu kormanu
-3
-5 min
+popis: zisti výšku (kvôli skateboardu)
+priorita: 2
+trvanie: 5 min
 
-najdi vrch (pripad kocika, korcule) a urci jeho poziciu vzhladom na stred
-3
-15 min
+popis: zisti, či je to kočík (kríž z nožičiek)
+priorita: 2
+trvanie: 15 min
 
-smer skejbordu
-4
-5 min
-
-zisti vysku (kvoli skejbordu)
-2
-5 min
-
-zisti, ci je to kocik (kriz z noziciek)
-2
-15 min
-
-zisti, ci ma (aj) sedadlo
-2
-20 min
+popis: zisti, či má (aj) sedadlo
+priorita: 2
+trvanie: 20 min
