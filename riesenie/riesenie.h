@@ -7,7 +7,7 @@ using namespace std;
 
 class DOPRAVNE_PROSTRIEDKY {
  public: 		
-  string vratDopravnyProsriedok(string obrazok);
+  string vratDopravnyProstriedok(string obrazok);
   string vratSmer(string obrazok);
 };
 

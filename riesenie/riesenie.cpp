@@ -14,14 +14,14 @@ using namespace std;
 
 class DOPRAVNE_PROSTRIEDKY {
  public: 		
-  string vratDopravnyProsriedok(string obrazok);
+  string vratDopravnyProstriedok(string obrazok);
   string vratSmer(string obrazok);
 };
 
 #endif
 
 
-string DOPRAVNE_PROSTRIEDKY::vratDopravnyProsriedok(string obrazok)
+string DOPRAVNE_PROSTRIEDKY::vratDopravnyProstriedok(string obrazok)
 {
 	return "neznamy dopravny prostriedok";
 }
