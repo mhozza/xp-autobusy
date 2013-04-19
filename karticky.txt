@@ -1,8 +1,3 @@
-popis: 
-priorita: 
-trvanie: 
-
-
 popis: lokalizacia objektu
 priorita: 5
 trvanie: 20 min
