@@ -1,14 +1,28 @@
 Úloha:
 Napíšte 2 metódy, ktoré dostanú na vstupe ASCII obrázok. Prvá z nich má vrátiť názov dopravného prostriedku, druhá má vrátiť smer, ktorým daný dopravný prostriedok ide.
 Názov dopravného prostriedku je jeden z nasledujúcich:
-"kolobezka", "traktor", "balon", "kocik", "raketa", "autobus", "autobus2", "trolejbus", "elektricka", "bicykel", "korcula", "lod", "lod2", "ponorka", "vzducholod", "skateboard", "neznámy dopravný prostriedok".
+"kolobezka", "traktor", "balon", "kocik", "raketa", "autobus", "trolejbus", "elektricka", "bicykel", "korcula", "lod", "ponorka", "vzducholod", "skateboard", "kamion", "neznámy dopravný prostriedok".
 
 Smer je jeden z:
 "doprava", "dolava", "hore", "neznamy smer"
 
-Každý dopravný prostriedok sa dá jednoznačne identifikovať pomocou niekoľkých vlastností:
+Každý dopravný prostriedok sa dá jednoznačne identifikovať pomocou niekoľkých vlastností (zvyšok si logicky domyslíte - všetky vyzerajú tak, ako ich poznáte):
 
-!!!TODO: vypísať z tej tabuľky
+autobus: má 2-3 kolesá, obsahuje okná a dvere
+trolejbus: má 2-3 kolesá, obsahuje okná a dvere, na streche má troleje (1 šikmá palica zo znakov '\','/')
+električka: má 4 alebo 8 kolesies, obsahuje okná a dvere, na streche má pantograf (kosoštvorec zo znakov '\','/')
+kamión: 4-8 kolies, má 1 okno
+kolobežka: má 2 kolesá, má korman
+traktor: má 2 kolesá a to zadné je väčšie
+balón: má oheň a široký vrchol
+kočík: má 2 kolesá, nad kolesami sú nosné palice v tvare X (zo znakov '\','/')
+raketa: môže mať okná, má oheň, na vrchu má špic ("/\" alebo 'A')
+korčuľa: má 2-4 kolesá
+bicykel: má 2 kolesá, má korman, má sedadlo (z ľub. znakov)
+skateboard: má 2 kolesá, je nízky (doska so zahnutím na jednej strane)
+ponorka: má vrtuľu, má okná, má periskop
+vzducholoď: má vrtuľu, má kabínu s oknami
+loď: má vrtuľu, môže mať okná, má špic ('|') a na ňom môže byť vlajka ('~')
 
 Pokiaľ kritériá nezodpovedajú žiadnemu dopravnému prostriedku, vypýšte "neznamy dopravny prostriedok". Neznámy dopravný prostriedok má "neznamy smer" jazdy.
 
